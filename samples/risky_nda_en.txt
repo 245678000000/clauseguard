@@ -1,0 +1,51 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement (the "Agreement") is entered into as of
+October 1, 2026 by and between Apex Dynamics Ltd. ("Disclosing Party") and the
+undersigned recipient ("Receiving Party").
+
+1. Confidential Information. "Confidential Information" means any information
+disclosed by either party, in any form, including without limitation business
+plans, customer lists, source code, and pricing.
+
+2. Obligations. The Receiving Party shall hold all Confidential Information in
+strict confidence. The confidentiality obligations under this Agreement shall
+remain in effect indefinitely and shall survive in perpetuity following the
+termination of this Agreement for any reason.
+
+3. Term. This Agreement shall commence on the Effective Date and shall continue
+for an initial term of two (2) years. Thereafter, this Agreement shall
+automatically renew for successive one (1) year periods unless either party
+provides written notice of non-renewal at least ninety (90) days prior to the
+expiration of the then-current term.
+
+4. Use Restrictions. The Receiving Party shall use the Confidential Information
+solely for the Purpose. The Receiving Party shall not engage in any business
+competitive with the Disclosing Party during the term of this Agreement and for
+a period of five (5) years thereafter, in any territory worldwide.
+
+5. Intellectual Property. All inventions, works, and intellectual property
+conceived by the Receiving Party during the term of this Agreement, whether or
+not related to the Purpose or based on the Confidential Information, shall be
+the sole and exclusive property of the Disclosing Party, including all
+background intellectual property previously developed by the Receiving Party.
+
+6. Termination. The Disclosing Party may terminate this Agreement at any time
+in its sole discretion without notice or liability. Upon termination, the
+Receiving Party shall promptly return or destroy all Confidential Information.
+
+7. Liability. The Receiving Party shall be liable for any and all losses,
+damages, and costs arising from any breach of this Agreement, without
+limitation. The Receiving Party agrees to indemnify and hold harmless the
+Disclosing Party, its affiliates, officers, and employees from any claims
+arising out of this Agreement.
+
+8. Fees. The Disclosing Party reserves the right to adjust fees or charges
+associated with the Purpose at its sole discretion and without prior notice.
+
+9. Waiver. The Receiving Party irrevocably waives any and all claims and rights
+against the Disclosing Party arising from or related to this Agreement.
+
+10. Governing Law. This Agreement shall be governed by the laws of the State of
+Delaware, and the parties submit to the exclusive jurisdiction of the courts of
+Wilmington, Delaware.

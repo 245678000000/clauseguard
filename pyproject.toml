@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clauseguard"
+version = "0.1.0"
+description = "Local-first bilingual (EN/中文) contract risk scanner: deterministic rules + open-weight LLM via Ollama. Zero third-party dependencies; nothing leaves your machine."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Peng Xing" }]
+keywords = ["contract", "legal", "nda", "ollama", "local-llm", "open-source-ai"]
+
+[project.scripts]
+clauseguard = "clauseguard.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["clauseguard*"]
